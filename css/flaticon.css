@@ -1,0 +1,72 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 08/10/2018 09:31
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-air-conditioner:before { content: "\f100"; }
+.flaticon-air-conditioner-1:before { content: "\f101"; }
+.flaticon-fan:before { content: "\f102"; }
+.flaticon-fan-1:before { content: "\f103"; }
+.flaticon-fan-2:before { content: "\f104"; }
+.flaticon-brightness:before { content: "\f105"; }
+.flaticon-night:before { content: "\f106"; }
+.flaticon-day:before { content: "\f107"; }
+.flaticon-car:before { content: "\f108"; }
+.flaticon-car-1:before { content: "\f109"; }
+.flaticon-train:before { content: "\f10a"; }
+.flaticon-train-1:before { content: "\f10b"; }
+.flaticon-bicycle:before { content: "\f10c"; }
+.flaticon-walk:before { content: "\f10d"; }
+.flaticon-car-2:before { content: "\f10e"; }
+.flaticon-application-form:before { content: "\f10f"; }
+.flaticon-house:before { content: "\f110"; }
+.flaticon-house-1:before { content: "\f111"; }
+.flaticon-building:before { content: "\f112"; }
+.flaticon-office:before { content: "\f113"; }
+.flaticon-clock:before { content: "\f114"; }
+.flaticon-clock-1:before { content: "\f115"; }
+.flaticon-route:before { content: "\f116"; }
+.flaticon-placeholder:before { content: "\f117"; }
+.flaticon-eolic:before { content: "\f118"; }
+.flaticon-wind-mill:before { content: "\f119"; }
+.flaticon-solar-panel:before { content: "\f11a"; }
+.flaticon-solar-panel-1:before { content: "\f11b"; }
+.flaticon-two-solar-panels:before { content: "\f11c"; }
+.flaticon-solar-energy:before { content: "\f11d"; }
+.flaticon-solar-panel-2:before { content: "\f11e"; }
+.flaticon-electric-tower:before { content: "\f11f"; }
+.flaticon-electric-tower-1:before { content: "\f120"; }
+.flaticon-big-family:before { content: "\f121"; }
+.flaticon-family:before { content: "\f122"; }
+.flaticon-family-1:before { content: "\f123"; }
+.flaticon-closed-envelope:before { content: "\f124"; }
+.flaticon-cancel:before { content: "\f125"; }
+.flaticon-mail:before { content: "\f126"; }
+.flaticon-high-five:before { content: "\f127"; }
+.flaticon-laugh:before { content: "\f128"; }
